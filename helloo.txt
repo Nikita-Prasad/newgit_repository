@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello
+||||||| merged common ancestors
+hellozgdfbui
+=======
+helloz
+>>>>>>> d0dcc5a5c24f9d7610a678c9b776c4b362eb97f2
